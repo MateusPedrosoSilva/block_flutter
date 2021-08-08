@@ -22,12 +22,16 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^1.0.2
+  cupertino_icons: ^1.0.3
   flutter_bloc: ^7.1.0
+  test: ^1.16.8 #Ver a bronca da versão
+  bloc_test: ^8.1.0
+  equatable: ^2.0.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
